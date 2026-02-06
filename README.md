@@ -1,5 +1,8 @@
 # Pharma-Analysis
 Executive-level sales analysis and AI-ready storytelling framework converting multi-year pharma data into customer-facing infographics.
+
+![Infographic Overview](sources/Pharma Executive Strategic Performance Roadmap.png)
+
 # 📊 Sales Performance & Growth Insights (2017–2022)
 
 This repository contains an executive-level analytical summary and storytelling framework
